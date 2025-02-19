@@ -1,17 +1,13 @@
-### **README.md**
-
-```markdown
 # XLSX Max Number Service
 
-Это тестовый проект представляет собой веб-сервис на Spring Boot, который позволяет найти N-е максимальное число в столбце Excel-файла (формат `.xlsx`).
-Для документации API используется **Swagger**.
+Этот проект представляет собой веб-сервис на Spring Boot, который позволяет найти N-е максимальное число в столбце Excel-файла (формат `.xlsx`). Для чтения файлов используется библиотека **EasyExcel**, а для документации API — **Swagger**.
 
 ---
 
 ## **Требования**
 
 Для запуска проекта вам потребуется:
-- Java 11 или выше
+- Java 17 или выше
 - Maven 3.6+
 - Git (для клонирования репозитория)
 
@@ -24,9 +20,8 @@
 Склонируйте репозиторий с GitHub:
 
 ```bash
-git clone https://github.com/your-repo/maxNumber.git
-cd maxNumber
-```
+git clone https://github.com/your-repo/xlsx-max-number.git
+cd xlsx-max-number
 
 ### 2. Сборка проекта
 
