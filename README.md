@@ -21,8 +21,10 @@
 
 ```bash
 git clone https://github.com/Veldmord/maxNumber.git
+```
+```bash
 cd maxNumber
-
+```
 ### 2. Сборка проекта
 
 Соберите проект с помощью Maven:
