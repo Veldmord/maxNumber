@@ -20,7 +20,7 @@
 Склонируйте репозиторий с GitHub:
 
 ```bash
-git clone https://github.com/your-repo/maxNumber.git
+git clone https://github.com/Veldmord/maxNumber.git
 cd maxNumber
 
 ### 2. Сборка проекта
