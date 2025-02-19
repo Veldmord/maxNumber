@@ -7,7 +7,7 @@
 ## **Требования**
 
 Для запуска проекта вам потребуется:
-- Java 17 или выше
+- Java 11 или выше
 - Maven 3.6+
 - Git (для клонирования репозитория)
 
@@ -20,8 +20,8 @@
 Склонируйте репозиторий с GitHub:
 
 ```bash
-git clone https://github.com/your-repo/xlsx-max-number.git
-cd xlsx-max-number
+git clone https://github.com/your-repo/maxNumber.git
+cd maxNumber
 
 ### 2. Сборка проекта
 
